@@ -168,19 +168,19 @@ Recommendations
 
 ## Databricks ETL
 
-(Add Screenshot)
+![Screenshot 1](./Screenshots/Screenshot%202026-06-30%20115120.png)
 
 ---
 
 ## PostgreSQL Database
 
-(Add Screenshot)
+![Screenshot 2](./Screenshots/Screenshot%202026-06-30%20122414.png)
 
 ---
 
 ## FastAPI Swagger UI
 
-(Add Screenshot)
+![Screenshot 3](./Screenshots/Screenshot%202026-06-30%20142705.png)
 
 ---
 
