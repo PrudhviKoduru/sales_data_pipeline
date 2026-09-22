@@ -173,14 +173,14 @@ Recommendations
 ---
 
 ## PostgreSQL Database
+![Screenshot 3](./Screenshots/Screenshot%202026-06-30%20142705.png)
 
-![Screenshot 2](./Screenshots/Screenshot%202026-06-30%20122414.png)
 
 ---
 
 ## FastAPI Swagger UI
+![Screenshot 2](./Screenshots/Screenshot%202026-06-30%20122414.png)
 
-![Screenshot 3](./Screenshots/Screenshot%202026-06-30%20142705.png)
 
 ---
 
