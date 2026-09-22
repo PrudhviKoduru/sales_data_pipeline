@@ -186,7 +186,7 @@ Recommendations
 
 ## AI Business Insights
 
-(Add Screenshot)
+![Screenshot 3](./Screenshots/Screenshot%202026-06-30%20122415.png)
 
 ---
 
